@@ -18,7 +18,7 @@ namespace The_firm
         //and therefore the propertys firstname, lastname and cprnumber can be reached
         protected internal override void GetInfo()
         {
-            Console.WriteLine("Sweeper");
+            Console.WriteLine("Sweeper:");
             Console.WriteLine(this.FirstName);
             Console.WriteLine(this.LastName);
             Console.WriteLine(this.CprNumber);
